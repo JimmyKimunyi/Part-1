@@ -32,7 +32,7 @@ const Header = (props) => {
 const Content = (props) => {
   return (
     <>
-      <Part part="Fundamentals of Rreact" exersice={10} />
+      <Part part="Fundamentals of React" exersice={10} />
       <Part part="Using props to pass data" exersice={7} />
       <Part part="State of a Component" exersice={14} />
     </>
